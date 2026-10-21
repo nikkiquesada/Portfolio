@@ -1,2 +1,2 @@
-# Gaming Editorial
-Editorial design and writing sample (see slides 1-3)
+# Portfolio
+A selection of my editorial, video, and directing work.
