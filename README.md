@@ -1,2 +1,2 @@
 # Portfolio
-A selection of my editorial, video, and directing work.
+A selection of my editorial, design, and directing work.
