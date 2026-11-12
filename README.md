@@ -10,7 +10,7 @@ A selection of my editorial, design, and directing work.
 
 - <iframe
 
-src="https://vimeo.com/1246144219?share=copy&fl=sv&fe=ci"
+src="https://player.vimeo.com/video/1246144219"
   width="500"
   height="281"
   frameborder="0"
