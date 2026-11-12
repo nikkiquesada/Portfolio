@@ -8,8 +8,15 @@ A selection of my editorial, design, and directing work.
 
 ## Motion Graphics
 
-- (https://vimeo.com/manage/videos/1246144219)
-- (https://vimeo.com/manage/videos/1246146411)
+- <iframe
+
+src="https://vimeo.com/1246144219?share=copy&fl=sv&fe=ci"
+  width="500"
+  height="281"
+  frameborder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allow=fullscreen>
+  </iframe>
 
 ## Writing Samples
 
