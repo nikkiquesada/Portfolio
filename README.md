@@ -9,8 +9,8 @@ A selection of my editorial, design, and directing work.
 ## Motion Graphics
 <a hef="https://vimeo.com/1246144219?share=copy&fl=sv&fe=ci">
   <img src="Screenshot%202026-11-12%20005358.png"
-alt=" "
-width="500">
+alt="Click the thumbnails to watch the videos"
+width="1000">
 </a>
 
 ## Writing Samples
