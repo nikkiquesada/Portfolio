@@ -8,16 +8,6 @@ A selection of my editorial, design, and directing work.
 
 ## Motion Graphics
 
-- <iframe
-
-src="https://player.vimeo.com/video/1246144219"
-  width="500"
-  height="281"
-  frameborder="0"
-  allow="autoplay; fullscreen; picture-in-picture"
-  allow=fullscreen>
-  </iframe>
-
 ## Writing Samples
 
 - [Renowned Pioneers of Sound](Writing%20Sample%3A%20Renowned%20Pioneers%20of%20Sound.pdf)
