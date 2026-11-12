@@ -7,8 +7,8 @@ A selection of my editorial, design, and directing work.
 ![Editorial - page 3](Gaming%20Editorial%20Page%203.PNG)
 
 ## Motion Graphics
+<a hef="https://vimeo
 
 ## Writing Samples
-
 - [Renowned Pioneers of Sound](Writing%20Sample%3A%20Renowned%20Pioneers%20of%20Sound.pdf)
 - [Top 5 Public Acting Schools](Writing%20Sample%3A%20Top%205%20Public%20Acting%20Schools.pdf)
