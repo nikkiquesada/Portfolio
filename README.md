@@ -11,6 +11,7 @@ A selection of my editorial, design, and directing work.
   <img src="Screenshot%202026-11-12%20005358.png"
 alt=" "
 width="500">
+</a>
 
 ## Writing Samples
 - [Renowned Pioneers of Sound](Writing%20Sample%3A%20Renowned%20Pioneers%20of%20Sound.pdf)
