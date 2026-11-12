@@ -8,13 +8,13 @@ A selection of my editorial, design, and directing work.
 
 ## Motion Graphics
 <p>Click the thumbnails to preview videos</p>
-<a hef="https://vimeo.com/1246144219?share=copy&fl=sv&fe=ci">
+<a href="https://vimeo.com/1246144219?share=copy&fl=sv&fe=ci">
   <img src="Screenshot%202026-11-12%20005358.png"
 alt=" "
 width="800">
 </a>
 
-<a hef="https://vimeo.com/1246146411?share=copy&fl=sv&fe=ci">
+<a href="https://vimeo.com/1246146411?share=copy&fl=sv&fe=ci">
   <img src="Screenshot%202026-11-12%20005222.png"
 alt=" "
 width="800">
