@@ -13,7 +13,13 @@ A selection of my editorial, design, and directing work.
 alt=" "
 width="800">
 </a>
-<p>Click the thumbnails to preview videos</p>
+
+<a hef="https://vimeo.com/1246146411?share=copy&fl=sv&fe=ci">
+  <img src="Screenshot%202026-11-12%20005222.png"
+alt=" "
+width="800">
+</a>
+
 
 ## Writing Samples
 - [Renowned Pioneers of Sound](Writing%20Sample%3A%20Renowned%20Pioneers%20of%20Sound.pdf)
